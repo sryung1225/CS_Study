@@ -1,6 +1,6 @@
 # CS_Study
 
-Computer Science 공부 중 실습이 필요한 경우 이곳에서 진행합니다.
+CS 공부 중 실습이 필요한 경우 이곳에서 진행합니다🚲
 
 ## LECTURE
 
