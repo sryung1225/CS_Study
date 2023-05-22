@@ -3,8 +3,8 @@
 
 int main(void)
 {
-    string pink = "pink";
-    string blue = "blue";
+    string pink = "핑크";
+    string blue = "파랑";
 
-    printf("%s and %s \n", pink, blue);
+    printf("%s 와 %s \n", pink, blue);
 }

@@ -13,7 +13,7 @@
         "-o",
         "${fileDirname}/${fileBasenameNoExtension}",
         "-I",
-        "libcs50-11.0.2/src"
+        "libcs50-11.0.2"
       ],
       "group": {
         "kind": "build",
