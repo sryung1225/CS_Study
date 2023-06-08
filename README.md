@@ -8,7 +8,7 @@ CS 공부 중 실습코드를 저장합니다🚲
 
 강의 : [boostcourse.org/cs112](www.boostcourse.org/cs112)
 
-실습 : [sandbox.cs50.io](https://sandbox.cs50.io/)
+실습 : [CS50 Sandbox](https://sandbox.cs50.io/) / [CS50 IDE](https://ide.cs50.io/)
 
 (로컬에서 cs50.h 라이브러리 셋팅 과정에 문제가 있어 실습코드만 우선 기록😢)
 
